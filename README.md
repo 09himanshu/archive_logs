@@ -2,6 +2,9 @@
 
 `log_archive.sh` gathers basic system information and creates a compressed archive of a selected path under `/var/log`.
 
+## Project URL
+[Log Archive](https://roadmap.sh/projects/log-archive-tool)
+
 ## Requirements
 
 - Bash
